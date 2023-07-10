@@ -1,0 +1,15 @@
+[submodule "inventory_app_project_v2_mysql/inventory_app_project_v2_mysql"]
+	path = inventory_app_project_v2_mysql/inventory_app_project_v2_mysql
+	url = https://github.com/CodeBusters2/inventory_app_project_v2_mysql.git
+[submodule "final_elective_project/final_elective_project"]
+	path = final_elective_project/final_elective_project
+	url = https://github.com/DanielSWaite190/final_elective_project.git
+[submodule "minecraft_backup_project/minecraft_backup_project"]
+	path = minecraft_backup_project/minecraft_backup_project
+	url = https://github.com/DanielSWaite190/minecraft_backup_project.git
+[submodule "reaction_engines/reaction_engines"]
+	path = reaction_engines/reaction_engines
+	url = https://github.com/DanielSWaite190/reaction_engines.git
+[submodule "reaction_engines_v2/reaction_engines_v2"]
+	path = reaction_engines_v2/reaction_engines_v2
+	url = https://github.com/DanielSWaite190/reaction_engines_v2.git
