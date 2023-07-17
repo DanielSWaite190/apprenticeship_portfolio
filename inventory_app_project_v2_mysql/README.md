@@ -1,11 +1,13 @@
 Inventory App Project V2
 
+For this project I worked with a team of 3 other people to build a simple single app react application that used a sequelize database on the backend. On the front end with React, we created a form to create new users, we also had a home page that would show a list of all the users and a search filed to filter them out. All the data was saved with sequelize.
+
 ## Technologies
 React.js
 Sequelize
 
 
-## Appropriate Job Functons
+## Appropriate Job Functions
 Job Functon 1: Explain and implement the process of building and deploying software across the Software Development Life Cycle and Project Life Cycle and describe how their role contributes to their team and organization
 - JF 1.5 Can work effectively and contribute appropriately on a team to produce software
 - JF 1.6 Can follow software designs and functional/technical specifications				
