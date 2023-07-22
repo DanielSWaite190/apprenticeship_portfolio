@@ -1,6 +1,6 @@
 Final Elective Project
 
-For my final project I decided to rebuild and improve a project that I did early on in the program. This was a nice way for me to compare my skills and knowledge from when I entered the program and when it ended. The project is a relatively simple single page React application. Unlike the first iteration of the project, this version has a backend database serving a few packages of data that are only available upon a successful login. This design allowed me to show my knowledge in backend databases, api fetching, and authorization.
+For my final project, I decided to rebuild and improve a project that I did early on in the program. This was a nice way for me to compare my skills and knowledge from when I entered the program and when it ended. The project is a relatively simple single page React application. Unlike the first iteration of the project, this version has a backend database serving a few packages of data that are only available upon a successful login. This design allowed me to show my knowledge in backend databases, api fetching, and authorization.
 
 ## Technologies
 React.js

@@ -1,6 +1,6 @@
 Reaction Engines V2
 
-For this project I wanted to test my understanding of class components. When I wrote the first version of the Reaction Engines project I build all the components as functional components. For this version I rewrote all the components as class components. The goal was to keep all the same functionality and even general code setup but just with class components. I also had a chance to give the site a more modern look. I was able to change a few elements based on some of the lessons I learned styling the first site.
+For this project, I wanted to test my understanding of class components. When I wrote the first version of the Reaction Engines project, I built all the components as functional components. For this version, I rewrote all the components as class components. The goal was to keep all the same functionality and even general code setup but just with class components. I also had a chance to give the site a more modern look. I was able to change a few elements based on some of the lessons I learned styling the first site.
 
 ## Technologies
 React.js

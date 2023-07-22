@@ -1,6 +1,6 @@
 Inventory App Project V2
 
-For this project I worked with a team of 3 other people to build a simple single app react application that used a sequelize database on the backend. On the front end with React, we created a form to create new users, we also had a home page that would show a list of all the users and a search filed to filter them out. All the data was saved with sequelize.
+For this project, I worked with a team of 3 other people to build a simple single app react application that used a sequelize database on the backend. On the front end with React, we created a form to create new users, we also had a home page that would show a list of all the users and a search filed to filter them out. All the data was saved with sequelize.
 
 ## Technologies
 React.js
